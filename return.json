@@ -1,0 +1,10 @@
+{
+  "code": 200,
+  "message": "²Ù×÷³É¹¦",
+  "result": {
+    "_encryptSalt": "2aaff8fea3374637",
+    "_lt": "d821d3ba63f349a3b1f92eef3981c440",
+    "forgetPwdUrl": "/personCenter/new_password_retrieve/index.html",
+    "needCaptcha": false
+  }
+}
